@@ -1,1 +1,1 @@
-# Brainwave_matrix_solution
+# Brainwave_matrix_intern
